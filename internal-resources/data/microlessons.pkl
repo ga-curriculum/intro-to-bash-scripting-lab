@@ -9,9 +9,23 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-exercise = new Template.Microlesson {
-  friendlyName = "Exercise"
-  dirName = "exercise"
+reviewBashCommands = new Template.Microlesson {
+  friendlyName = "Review Bash Commands"
+  dirName = "review-bash-commands"
+  type = "Content"
+  videoUrl = ""
+}
+
+bashScriptStructureAndCreation = new Template.Microlesson {
+  friendlyName = "Bash Script Structure and Creation"
+  dirName = "bash-script-structure"
+  type = "Content"
+  videoUrl = ""
+}
+
+troubleshooting = new Template.Microlesson {
+  friendlyName = "Troubleshooting"
+  dirName = "troubleshooting"
   type = "Content"
   videoUrl = ""
 }
