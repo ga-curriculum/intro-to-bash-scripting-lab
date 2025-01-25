@@ -2,38 +2,32 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
-  type = "Content"
-  videoUrl = ""
-}
 
-reviewBashCommands = new Template.Microlesson {
-  friendlyName = "Review Bash Commands"
-  dirName = "review-bash-commands"
+setupAndReviewBashCommands = new Template.Microlesson {
+  friendlyName = "Setup and Review Bash Commands"
+  dirName = "setup-and-review-bash-commands"
   type = "Content"
   videoUrl = ""
 }
 
 bashScriptStructureAndCreation = new Template.Microlesson {
   friendlyName = "Bash Script Structure and Creation"
-  dirName = "bash-script-structure"
+  dirName = "bash-script-structure-and-creation"
   type = "Content"
   videoUrl = ""
 }
 
-troubleshooting = new Template.Microlesson {
-  friendlyName = "Troubleshooting"
-  dirName = "troubleshooting"
+createAScriptThatBuildsDirectoryTemplates = new Template.Microlesson {
+  friendlyName = "Create a Script That Builds Directory Templates"
+  dirName = "create-a-script-that-builds-directory-templates"
   type = "Content"
   videoUrl = ""
 }
 
-levelUp = new Template.Microlesson {
-  friendlyName = "Level Up"
-  dirName = "level-up"
-  type = "Level Up Content"
+exploreTheCaseStatementInBash = new Template.Microlesson {
+  friendlyName = "Explore the <code>case</code> Statement in Bash"
+  dirName = "explore-the-case-statement-in-bash"
+  type = "Content"
   videoUrl = ""
 }
 

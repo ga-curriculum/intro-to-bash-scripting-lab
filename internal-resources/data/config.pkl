@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Introduction to Bash Scripting"
+  friendlyName = "Introduction to Bash Scripting Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "intro-to-bash-scripting"
+  name = "intro-to-bash-scripting-lab"
   type = "Lab"
 }
 
@@ -22,12 +22,11 @@ courses {
     new {
     name = "itb"
     microlessons {
-      mls.setup
-      mls.reviewBashCommands
+      mls.setupAndReviewBashCommands
       mls.bashScriptStructureAndCreation
-      mls.troubleshooting
+      mls.createAScriptThatBuildsDirectoryTemplates
       // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
+      (mls.exploreTheCaseStatementInBash) {
         type = "Level Up content"
       }
     }
@@ -37,14 +36,10 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.reviewBashCommands
+      mls.setupAndReviewBashCommands
       mls.bashScriptStructureAndCreation
-      mls.troubleshooting
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
-        type = "Level Up content"
-      }
+      mls.createAScriptThatBuildsDirectoryTemplates
+      mls.exploreTheCaseStatementInBash
     }
   }
 }
