@@ -1,11 +1,11 @@
 <h1>
-  <span class="headline">Introduction to Bash Scripting</span>
+  <span class="headline">Introduction to Bash Scripting Lab</span>
   <span class="subhead">Release Notes</span>
 </h1>
 
-## Version 1.0 - Updates from legacy content
+## Version 1.0 - New
 
-This release modularizes the legacy [tktk previous lab name] lab and provides some other minor updates detailed below.
+This is the initial release of the **Introduction to Bash Scripting Lab** module.
 
 ### Release details
 
