@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Introduction to Bash Scripting",
-    "name": "intro-to-bash-scripting",
+    "friendlyName": "Introduction to Bash Scripting Lab",
+    "name": "intro-to-bash-scripting-lab",
     "type": "Lab",
     "about": "",
     "starterCode": "",
@@ -20,18 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup",
-          "dirName": "setup",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Review Bash Commands",
-          "dirName": "review-bash-commands",
+          "friendlyName": "Setup and Review Bash Commands",
+          "dirName": "setup-and-review-bash-commands",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -41,7 +31,7 @@
         },
         {
           "friendlyName": "Bash Script Structure and Creation",
-          "dirName": "bash-script-structure",
+          "dirName": "bash-script-structure-and-creation",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Troubleshooting",
-          "dirName": "troubleshooting",
+          "friendlyName": "Create a Script That Builds Directory Templates",
+          "dirName": "create-a-script-that-builds-directory-templates",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -60,8 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Level Up",
-          "dirName": "level-up",
+          "friendlyName": "Explore the <code>case</code> Statement in Bash",
+          "dirName": "explore-the-case-statement-in-bash",
           "type": "Level Up content",
           "skill": "",
           "learningObjective": "",
@@ -99,18 +89,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup",
-          "dirName": "setup",
-          "type": "Content",
-          "skill": "",
-          "learningObjective": "",
-          "videoUrl": "",
-          "videoLengthInMinutes": 0,
-          "estimatedDeliveryTimeInMinutes": 0
-        },
-        {
-          "friendlyName": "Review Bash Commands",
-          "dirName": "review-bash-commands",
+          "friendlyName": "Setup and Review Bash Commands",
+          "dirName": "setup-and-review-bash-commands",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -120,7 +100,7 @@
         },
         {
           "friendlyName": "Bash Script Structure and Creation",
-          "dirName": "bash-script-structure",
+          "dirName": "bash-script-structure-and-creation",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -129,8 +109,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Troubleshooting",
-          "dirName": "troubleshooting",
+          "friendlyName": "Create a Script That Builds Directory Templates",
+          "dirName": "create-a-script-that-builds-directory-templates",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -139,9 +119,9 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Level Up",
-          "dirName": "level-up",
-          "type": "Level Up content",
+          "friendlyName": "Explore the <code>case</code> Statement in Bash",
+          "dirName": "explore-the-case-statement-in-bash",
+          "type": "Content",
           "skill": "",
           "learningObjective": "",
           "videoUrl": "",
