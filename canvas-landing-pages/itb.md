@@ -18,3 +18,7 @@ You'll start by reviewing essential Bash commands for navigating the file system
 ## Level Up
 
 - [Explore the `case` Statement in Bash](../explore-the-case-statement-in-bash/README.md)
+
+## Rubric
+
+[Rubric](./rubrics/itb.md)
