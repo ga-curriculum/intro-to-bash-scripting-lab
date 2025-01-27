@@ -13,7 +13,7 @@ You now know enough to create a new script from scratch! Start with some setup:
 
 3. Add the shebang line.
 
-4. Ensure the file can be executed.
+4. Ensure the file can be executed, both for yourself and for anyone that might clone this script from GitHub.
 
 ### Add functionality
 
@@ -21,7 +21,7 @@ In this exercise, you'll create a script that automates the process of building 
 
 > 🧠 Remember, if you encounter problems along the way, check out the **Troubleshooting** section at the bottom of this page!
 
-Implement the following functionality:
+When the script is run, it should do the following:
 
 1. Create a new directory that matches the name of the project.
 
@@ -31,11 +31,11 @@ Implement the following functionality:
 
 4. Create a new file that matches the project's name in the new directory and give it the `.sh` extension to specify that it is a script file. If you used this template to build an actual script, this file would contain the main script code.
 
-5. Make the script file executable.
+5. Initialize a new Git repository in the project directory.
 
-6. Initialize a new Git repository in the project directory.
+6. Make the new script file executable, both for yourself, and for anyone that might clone this script file from GitHub.
 
-7. Test out the script and confirm it does what you want!
+Test out the script and confirm it does what you want!
 
 Don't forget to push your new script to GitHub when you're done:
 

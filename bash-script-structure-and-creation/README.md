@@ -74,6 +74,8 @@ Congratulations on writing your first Bash script! Now, let's make it executable
    - The `+x` option adds execute permissions to the file.
    - The `first-script.sh` argument specifies the file to modify.
 
+   > ⚠️ This does not make the script executable for those that clone the repository. They will need to run the `chmod` command themselves, or you can run a git command to enable execute permissions for anyone that clones the repository from GitHub: `git add --chmod=+x ./first-script.sh`. Run this command now.
+
 3. Execute the script by running the following command:
 
    ``` bash

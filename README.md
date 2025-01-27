@@ -16,6 +16,11 @@ You'll start by reviewing essential Bash commands for navigating the file system
 - [Create a Script That Builds Directory Templates](./create-a-script-that-builds-directory-templates/README.md)
 - [Explore the `case` Statement in Bash](./explore-the-case-statement-in-bash/README.md)
 
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
+
 ## Internal
 
 ### Prerequisites

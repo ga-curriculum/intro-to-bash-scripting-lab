@@ -13,13 +13,13 @@ In this exercise, you'll create a calculator script that performs foundational a
 
 1. Working in the <code class="filepath">intro-to-bash-scripts-lab</code> directory, create a new file called <code class="filepath">calculator.sh</code> using the `touch` command.
 
-2. Make the <code class="filepath">calculator.sh</code> script executable using the `chmod` command.
+2. Make the <code class="filepath">calculator.sh</code> script executable using the `chmod` command. Also make it so that the script can be executed by those who clone the script from GitHub.
 
 3. Open the new file in VS Code.
 
 4. Add the shebang line.
 
-5. The script should accept three command-line arguments: the first number, the arithmetic operator (`+`, `-`, `*` `/`), and `num2` (second number).
+5. The script should accept three command-line arguments: the first number, the arithmetic operator (`+`, `-`, `*` `/`), and a second number.
 
 6. Research the `case` statement in Bash and use it to evaluate the arithmetic operator and perform the corresponding operation.
 
