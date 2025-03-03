@@ -11,25 +11,29 @@ In this exercise, you'll create a calculator script that performs foundational a
 
 ## Steps
 
-1. Working in the <code class="filepath">intro-to-bash-scripts-lab</code> directory, create a new file called <code class="filepath">calculator.sh</code> using the `touch` command.
+1. In your terminal application, ensure you are in the <code class="filepath">intro-to-bash-scripts-lab</code> directory.
 
-2. Make the <code class="filepath">calculator.sh</code> script executable using the `chmod` command. Also make it so that the script can be executed by those who clone the script from GitHub.
+2. Create a new file called <code class="filepath">calculator.sh</code> using the `touch` command.
 
-3. Open the new file in VS Code.
+3. Make the <code class="filepath">calculator.sh</code> script executable using the `chmod` command.
 
-4. Add the shebang line.
+4. Also make it so that the script can be executed by those who clone the script from GitHub.
 
-5. The script should accept three command-line arguments: the first number, the arithmetic operator (`+`, `-`, `*` `/`), and a second number.
+5. Open the new file in VS Code.
 
-6. Research the `case` statement in Bash and use it to evaluate the arithmetic operator and perform the corresponding operation.
+6. Add the shebang line.
+
+7. The script should accept three command-line arguments: the first number, the arithmetic operator (`+`, `-`, `*` `/`), and a second number.
+
+8. Research the `case` statement in Bash and use it to evaluate the arithmetic operator and perform the corresponding operation.
 
    > 💡 Use the `$((expression))` syntax to perform arithmetic operations within Bash. For example, `$((1 + 1))` would evaluate to `2`.
 
-7. Print the result of the arithmetic operation to the screen.
+9. Print the result of the arithmetic operation to the screen.
 
-8. Save the file and exit the text editor.
+10. Save the file and exit the text editor.
 
-9. Execute the script with command-line arguments:
+11. Execute the script with command-line arguments:
 
    ``` bash
    ./calculator.sh 10 + 5

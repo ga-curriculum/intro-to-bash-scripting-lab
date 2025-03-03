@@ -55,6 +55,8 @@ Before diving into scripting, let's ensure we have a solid foundation in basic B
 
    > 🚨 Do not copy the above command. It will not work. Your GitHub username will replace `<github-username>` (including the `<` and `>`) in the URL above.
 
+4. When the time comes, don't forget to push your final code to GitHub!
+
 ### Launch in VS Code
 
 Finally, open the contents of the directory in VS Code:
