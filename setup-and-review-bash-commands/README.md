@@ -3,7 +3,7 @@
   <span class="subhead">Bash Command Review and Setup</span>
 </h1>
 
-**Learning objective:** In this exercise, you'll refresh your knowledge of essential Bash commands for navigating the file system and manipulating files and directories, and complete setup.
+**Learning objective:** By the end of this exercise, students will be able to utilize essential Bash commands for navigating the file system and manipulating files and directories, and complete setup.
 
 ## Commands to review
 

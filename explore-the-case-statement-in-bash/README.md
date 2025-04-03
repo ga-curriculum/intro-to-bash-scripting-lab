@@ -3,7 +3,7 @@
   <span class="subhead">Explore the <code>case</code> Statement in Bash</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to create more advanced Bash scripts.
+**Learning objective:** By the end of this lesson, students will be able to create more advanced Bash scripts by utilizing the `case` statement.
 
 ## Creating a Calculator
 

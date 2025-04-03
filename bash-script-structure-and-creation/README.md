@@ -3,7 +3,7 @@
   <span class="subhead">Bash Script Structure and Creation</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will explore the essential components of a Bash script and utilize command-line arguments and variables in a script.
+**Learning objective:** By the end of this lesson, students will be able to identify the essential components of a Bash script and utilize command-line arguments and variables in a script.
 
 ## Components of a Bash Script
 

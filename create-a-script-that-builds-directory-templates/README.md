@@ -3,6 +3,8 @@
   <span class="subhead">Create a Script That Builds Directory Templates</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to create a Bash script that builds a directory structure for a project.
+
 ## Create a new script
 
 You now know enough to create a new script from scratch! Start with some setup:
