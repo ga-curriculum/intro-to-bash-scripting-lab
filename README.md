@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Introduction to Bash Scripting Lab</span>
+  <span class="headline">Intro to Bash Scripting Lab</span>
 </h1>
 
 ## About

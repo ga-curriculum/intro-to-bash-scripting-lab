@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Introduction to Bash Scripting Lab</span>
+  <span class="headline">Intro to Bash Scripting Lab</span>
   <span class="subhead">Create a Script That Builds Directory Templates</span>
 </h1>
 
