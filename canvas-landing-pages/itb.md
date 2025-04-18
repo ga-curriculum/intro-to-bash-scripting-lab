@@ -21,4 +21,4 @@ You'll start by reviewing essential Bash commands for navigating the file system
 
 ## Rubric
 
-[Rubric](./rubrics/itb.md)
+[Rubric](../rubrics/itb.md)

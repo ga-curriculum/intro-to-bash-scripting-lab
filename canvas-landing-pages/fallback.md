@@ -19,4 +19,4 @@ You'll start by reviewing essential Bash commands for navigating the file system
 
 ## Rubric
 
-[Rubric](./rubrics/fallback.md)
+[Rubric](../rubrics/fallback.md)
